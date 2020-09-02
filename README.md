@@ -18,7 +18,7 @@ I decided to use these features in my data set: year, writer, director, genre, a
 
 
 
-I did this to differentiate high rated but small independent films with large blockbusters. I wanted large, high rated blockbusters with lots of votes (ex: Shawshank Redemption, Forrest Gump, Godfather) to be ranked higher than small independent films that are also ranked high. 
+I did this to differentiate high rated but small independent films with large blockbusters. I wanted large, high rated blockbusters with lots of votes (ex: Shawshank Redemption, Forrest Gump, Godfather) to be ranked higher than small independent films that are also rated high. 
 
 **I only used this 'score' metric for EDA, and discarded it when I started my ML models.**
 
